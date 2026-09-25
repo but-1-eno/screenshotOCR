@@ -2,7 +2,7 @@
 
 Aplicacao nativa para Windows que permanece em segundo plano e pode ser acionada por um atalho global.
 
-O objetivo do projeto e permitir que o usuario selecione uma area da tela, gere um screenshot e extraia automaticamente textos, caracteres e numeros presentes na imagem.
+O objetivo do projeto e permitir que o usuario selecione uma area da tela, gere um screenshot e extraia automaticamente textos, caracteres e numeros presentes na imagem sem depender de serviços de terceiros, rodando sobre o OCR nativo do Windows.
 
 ## Principais recursos
 
